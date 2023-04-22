@@ -1,6 +1,6 @@
 # MySQL All For One
 
-O projeto consiste em normalizar um banco de dados desnormalizado, desenvolver queries que retornem a quantidade de colunas e registros esperados. Para isso, foi necessário analisar duas tabelas não normalizadas, identificar modificações necessárias para adequá-las às Formas Normais, criar um banco de dados a partir de uma planilha, modelar e criar tabelas e desenvolver queries com comandos SQL. O projeto foi importante para desenvolver habilidades essenciais para quem trabalha com estruturas de banco de dados diariamente, como a redução de erros, diminuição de redundância e garantia de integridade de dados.
+O projeto consiste em normalizar um banco de dados desnormalizado, desenvolver queries que retornem a quantidade de colunas e registros esperados. Para isso, foi necessário analisar duas tabelas não normalizadas, identificar modificações necessárias para adequá-las às Formas Normais. Foi criado um banco de dados SQL a partir de dados disponibilizados através de uma planilha Excel. O projeto foi importante para desenvolver habilidades essenciais para quem trabalha com estruturas de banco de dados diariamente, como a redução de erros, diminuição de redundância e garantia de integridade de dados.
 
 ## Funcionalidades
 
