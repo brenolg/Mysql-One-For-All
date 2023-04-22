@@ -4,7 +4,7 @@ O projeto consiste em normalizar um banco de dados desnormalizado e desenvolver 
 
 ## Funcionalidades
 
-- Identificar e realizar modificações necessárias para que suas tabelas estejam adequadamente na 1ª, 2ª e 3ª Forma Normais
+- Identificar e realizar modificações necessárias para que as tabelas estejam adequadamente na 1ª, 2ª e 3ª Forma Normais
 - Criação de um banco de dados a partir de uma planilha que contém tabelas e dados
 - Criar e modelar tabelas
 - Queries que passam pelos principais comandos SQL
